@@ -1,0 +1,12 @@
+Please follow below instructions :
+
+1. Go to Settings -> Technical -> User Interface -> Views
+
+2. Search "cart_summary_ept" in key section.
+
+3. Delete all the available views regarding "cart_summary_ept".
+4. Upgrade "Emipro Theme Base" module.
+
+Let me know if it works for you.
+
+Thank you,
